@@ -1,6 +1,4 @@
-In this project, let's build a **Notes App** by applying the concepts we have learned till now.
 
-### Refer to the image below:
 
 <br/>
 <div style="text-align: center;">
@@ -19,12 +17,5 @@ In this project, let's build a **Notes App** by applying the concepts we have le
 
 </details>
 
-### Set Up Instructions
 
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
 
